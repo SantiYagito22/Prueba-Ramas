@@ -12,6 +12,9 @@ public class HolaMundo {
     int e=5;
     int f=a-b;
     System.out.println("La resta es de "+f.toString());
-
+    
+    int h= c*f;
+    
+    System.out.println("EL resultado final es"+h.toString());
   }
 }
